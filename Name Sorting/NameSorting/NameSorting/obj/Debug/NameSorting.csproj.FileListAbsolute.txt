@@ -1,0 +1,7 @@
+C:\Users\jacqy\Dropbox\UHCL\Courses\Spring 2019\SWEN 5235 Software Construction II\Homework\Name Sorting\NameSorting\NameSorting\bin\Debug\NameSorting.exe.config
+C:\Users\jacqy\Dropbox\UHCL\Courses\Spring 2019\SWEN 5235 Software Construction II\Homework\Name Sorting\NameSorting\NameSorting\bin\Debug\NameSorting.exe
+C:\Users\jacqy\Dropbox\UHCL\Courses\Spring 2019\SWEN 5235 Software Construction II\Homework\Name Sorting\NameSorting\NameSorting\bin\Debug\NameSorting.pdb
+C:\Users\jacqy\Dropbox\UHCL\Courses\Spring 2019\SWEN 5235 Software Construction II\Homework\Name Sorting\NameSorting\NameSorting\obj\Debug\NameSorting.csprojAssemblyReference.cache
+C:\Users\jacqy\Dropbox\UHCL\Courses\Spring 2019\SWEN 5235 Software Construction II\Homework\Name Sorting\NameSorting\NameSorting\obj\Debug\NameSorting.csproj.CoreCompileInputs.cache
+C:\Users\jacqy\Dropbox\UHCL\Courses\Spring 2019\SWEN 5235 Software Construction II\Homework\Name Sorting\NameSorting\NameSorting\obj\Debug\NameSorting.exe
+C:\Users\jacqy\Dropbox\UHCL\Courses\Spring 2019\SWEN 5235 Software Construction II\Homework\Name Sorting\NameSorting\NameSorting\obj\Debug\NameSorting.pdb
